@@ -11,7 +11,7 @@ const Footer = () => {
       transition={{ duration: 1 }}
     >
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
-        <p className="text-gray-400 text-sm">© {new Date().getFullYear()} Your Name. All Rights Reserved.</p>
+        <p className="text-gray-400 text-sm">© {new Date().getFullYear()} Stella Eton All Rights Reserved.</p>
         
         <div className="flex space-x-4 mt-4 md:mt-0">
           <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-yellow-500 transition text-xl">
